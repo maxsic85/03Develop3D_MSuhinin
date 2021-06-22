@@ -110,6 +110,7 @@
     <Compile Include="Assets\Models\IG57\ScriptsIG57\InfoAnim6IG57.cs" />
     <Compile Include="Assets\Models\IG57\ScriptsIG57\infoAnim1IG571.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+    <Compile Include="Assets\TestBlend.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
     <Compile Include="Assets\Models\IG57\ScriptsIG57\InfoAnim3IG57.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
@@ -127,6 +128,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Utility\SmoothFollow.cs" />
     <Compile Include="Assets\Scripts\MyAdvancedGUI.cs" />
+    <Compile Include="Assets\Scripts\MyTime.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Utility\TimedObjectDestructor.cs" />
@@ -141,6 +143,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAudio.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
+    <Compile Include="Assets\Scripts\LightSettings.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Utility\FollowTarget.cs" />
@@ -174,8 +177,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
     <Compile Include="Assets\Scripts\MyGUILayout.cs" />
-    <Compile Include="Assets\Scripts\LightSettings.cs" />
-    <Compile Include="Assets\Scripts\MyTime.cs" />
+    <Compile Include="Assets\Atack.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\DownloadAssets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
