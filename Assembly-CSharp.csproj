@@ -70,6 +70,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
     <Compile Include="Assets\DownloadAssets\SampleScenes\Scripts\LevelReset.cs" />
     <Compile Include="Assets\DownloadAssets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+    <Compile Include="Assets\IKAnimator.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
@@ -111,6 +112,7 @@
     <Compile Include="Assets\Models\IG57\ScriptsIG57\infoAnim1IG571.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\TestBlend.cs" />
+    <Compile Include="Assets\Atack.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
     <Compile Include="Assets\Models\IG57\ScriptsIG57\InfoAnim3IG57.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
@@ -177,7 +179,7 @@
     <Compile Include="Assets\DownloadAssets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\DownloadAssets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
     <Compile Include="Assets\Scripts\MyGUILayout.cs" />
-    <Compile Include="Assets\Atack.cs" />
+    <Compile Include="Assets\Mover.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\DownloadAssets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
